@@ -1,3 +1,4 @@
 UI Module
 - Home page layout
 - Navbar added
+- Footer added
