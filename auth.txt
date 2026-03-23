@@ -1,0 +1,4 @@
+Auth Module
+- Login functionality
+- Signup functionality
+- Logout functionality
