@@ -1,4 +1,5 @@
 Auth Module
 - Login functionality
+-BUG: breaks Authentication
 - Signup functionality
 - Logout functionality
